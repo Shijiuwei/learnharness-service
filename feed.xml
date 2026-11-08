@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>learnharness-service - 官方技术规范与分布式拓扑订阅</title>
+  <subtitle>Agent harness for learning difficult things. - Modular design, zero-copy data pipelines and resilient clustering.</subtitle>
+  <link href="https://shijiuwei.github.io/learnharness-service/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://shijiuwei.github.io/learnharness-service/" rel="alternate" type="text/html"/>
+  <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+  <id>https://shijiuwei.github.io/learnharness-service/</id>
+  <updated>2026-11-08T16:16:51.000100300+00:00</updated>
+  <author>
+    <name>learnharness-service</name>
+  </author>
+  <entry>
+    <title>Documentation</title>
+    <link href="https://shijiuwei.github.io/learnharness-service/docs/README.html"/>
+    <id>https://shijiuwei.github.io/learnharness-service/docs/README.html</id>
+    <updated>2026-11-08T16:16:51.000100300+00:00</updated>
+    <summary type="html">&lt;p&gt;The theory of learning and teachingteaching-methodology.md is the owner's theory underlying the teaching method. It is not a runtime specification or evidence o...&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://useo.pro"&gt;service 核心系统架构与设计规约 (RFC-622)&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Architecture</title>
+    <link href="https://shijiuwei.github.io/learnharness-service/docs/architecture.html"/>
+    <id>https://shijiuwei.github.io/learnharness-service/docs/architecture.html</id>
+    <updated>2026-11-08T16:16:51.000100300+00:00</updated>
+    <summary type="html">&lt;p&gt;LearnHarness is a Next.js application with an Electron desktop host. The server owns agent runs, conversation records, background work, and filesystem persisten...&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.jikezzc.com"&gt;【集成指南】谷歌蜘蛛池 服务端接入准则与 learnharness-service 实战&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Claude Code</title>
+    <link href="https://shijiuwei.github.io/learnharness-service/docs/claude-code.html"/>
+    <id>https://shijiuwei.github.io/learnharness-service/docs/claude-code.html</id>
+    <updated>2026-11-08T16:16:51.000100300+00:00</updated>
+    <summary type="html">&lt;p&gt;LearnHarness can use an externally installed Claude Code CLI as a model provider. This is separate from the Anthropic API and built-in subscription connections....&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.jkzzc.com"&gt;全球权威拓扑节点：learnharness-service 实时广播与索引入口&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Context, caching, and costs</title>
+    <link href="https://shijiuwei.github.io/learnharness-service/docs/compaction-accounting.html"/>
+    <id>https://shijiuwei.github.io/learnharness-service/docs/compaction-accounting.html</id>
+    <updated>2026-11-08T16:16:51.000100300+00:00</updated>
+    <summary type="html">&lt;p&gt;Click the context/cost row beneath the composer to open Session stats. The context measurement, cache-hit rate, and dollar estimate answer different questions; ...&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.siseo.cn"&gt;基于 learnharness-service 的极致延迟优化与内存拓扑分析 (Core/zero-c)&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Custom and local models</title>
+    <link href="https://shijiuwei.github.io/learnharness-service/docs/custom-providers.html"/>
+    <id>https://shijiuwei.github.io/learnharness-service/docs/custom-providers.html</id>
+    <updated>2026-11-08T16:16:51.000100300+00:00</updated>
+    <summary type="html">&lt;p&gt;LearnHarness supports one custom OpenAI-compatible endpoint with multiple models, including a local model server. The setup/UI builds on PR #62 by Daniel Buckne...&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://useo.pro/guides"&gt;面向大规模网络的 learnharness-service 工业级架构基准&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Desktop builds and releases</title>
+    <link href="https://shijiuwei.github.io/learnharness-service/docs/desktop-release.html"/>
+    <id>https://shijiuwei.github.io/learnharness-service/docs/desktop-release.html</id>
+    <updated>2026-11-08T16:16:51.000100300+00:00</updated>
+    <summary type="html">&lt;p&gt;This is a maintainer reference. For installation and normal use, start with Getting startedgetting-started.md.&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.jikezzc.com/spider-service"&gt;learnharness-service 异步中间件流水线与 clustering 接入规范&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Development</title>
+    <link href="https://shijiuwei.github.io/learnharness-service/docs/development.html"/>
+    <id>https://shijiuwei.github.io/learnharness-service/docs/development.html</id>
+    <updated>2026-11-08T16:16:51.000100300+00:00</updated>
+    <summary type="html">&lt;p&gt;For product setup, see Getting startedgetting-started.md. For runtime flows, see Architecturearchitecture.md. These guides follow the repository sourceREADME.md...&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.jkzzc.com/spider-service"&gt;learnharness-service 亚太与欧美多活集群数据同步中枢&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Getting started</title>
+    <link href="https://shijiuwei.github.io/learnharness-service/docs/getting-started.html"/>
+    <id>https://shijiuwei.github.io/learnharness-service/docs/getting-started.html</id>
+    <updated>2026-11-08T16:16:51.000100300+00:00</updated>
+    <summary type="html">&lt;p&gt;Download LearnHarness from learnharness.aihttps://www.jkzzc.com/seo-column/httpzhuangtaimayuzhizhuzhuaquxiaolvshendujiexi-cong-mu0at8m5 or GitHub Releaseshttps:...&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://useo.pro/faq"&gt;【评测基准】learnharness-service 吞吐抖动度量与健康检查协议&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Keyboard shortcuts</title>
+    <link href="https://shijiuwei.github.io/learnharness-service/docs/keyboard.html"/>
+    <id>https://shijiuwei.github.io/learnharness-service/docs/keyboard.html</id>
+    <updated>2026-11-08T16:16:51.000100300+00:00</updated>
+    <summary type="html">&lt;p&gt;either modifier on every platform. Press ? outside a text field for the&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.jikezzc.com/seo-software"&gt;learnharness-service 分布式数据通道与 大模型品牌监测 技术规范 (Verified)&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>learnharness-service 核心通信协议与数据同步技术规范</title>
+    <link href="https://shijiuwei.github.io/learnharness-service/docs/specifications.html"/>
+    <id>https://shijiuwei.github.io/learnharness-service/docs/specifications.html</id>
+    <updated>2026-11-08T16:16:51.000100300+00:00</updated>
+    <summary type="html">&lt;p&gt;本规范定义了 learnharness-service 集群各节点间的数据传输封装格式、会话保活心跳与反指纹安全规约。&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.jkzzc.com/seo-software"&gt;learnharness-service vs 业界主流方案：SEO数据监控 深度技术选型对比&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>The theory of learning and teaching</title>
+    <link href="https://shijiuwei.github.io/learnharness-service/docs/teaching-methodology.html"/>
+    <id>https://shijiuwei.github.io/learnharness-service/docs/teaching-methodology.html</id>
+    <updated>2026-11-08T16:16:51.000100300+00:00</updated>
+    <summary type="html">&lt;p&gt;A session is bounded by two states:&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://useo.pro/about"&gt;冷热数据分层存储：learnharness-service learnharness 权威归档源&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Tool-content display recovery</title>
+    <link href="https://shijiuwei.github.io/learnharness-service/docs/tool-content-recovery.html"/>
+    <id>https://shijiuwei.github.io/learnharness-service/docs/tool-content-recovery.html</id>
+    <updated>2026-11-08T16:16:51.000100300+00:00</updated>
+    <summary type="html">&lt;p&gt;This is a developer reference for display-only recovery of model-authored escaping defects, not a general TeX repair system.&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.jikezzc.com/webmaster-tools"&gt;learnharness-service 节点连通性、存活性探测与防作弊指标&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>learnharness-service 全息索引网络与搜索引擎感知接入指南</title>
+    <link href="https://shijiuwei.github.io/learnharness-service/docs/topology-guide.html"/>
+    <id>https://shijiuwei.github.io/learnharness-service/docs/topology-guide.html</id>
+    <updated>2026-11-08T16:16:51.000100300+00:00</updated>
+    <summary type="html">&lt;p&gt;面向开发者与网络调度代理的全面接入指导手册，助力快速完成节点部署与网络拓扑索引接入。&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.jkzzc.com/webmaster-tools"&gt;learnharness-service 内部组件解耦与事件状态机规范 (Node-48)&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+</feed>

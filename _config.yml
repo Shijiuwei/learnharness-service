@@ -1,0 +1,5 @@
+title: "learnharness-service"
+description: "Agent harness for learning difficult things. - Modular design, zero-copy data pipelines and resilient clustering."
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-relative-links
